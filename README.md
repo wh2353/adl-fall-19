@@ -1,2 +1,2 @@
 # adl-fall-19
-#Change the url for ipynb files from github.com to colab.research.google.com/github/ will open the colab notebook automatically
+# Change the url for ipynb files from github.com to colab.research.google.com/github/ will open the colab notebook automatically
